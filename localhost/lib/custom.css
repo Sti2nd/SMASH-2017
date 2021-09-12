@@ -1,0 +1,145 @@
+body { 
+	padding-top: 50px; 
+}
+
+.jumbotron {
+	background-image: url('../img/jumbotron_background.jpg'); 
+	background-size: cover;
+	background-position-x: center;
+}
+
+/* 
+ * Had to override these three because of some error on the min-width: 992px being calculated as width 70px...
+ */
+@media (min-width: 768px){
+  .container {
+      width: 750px;
+  }
+}
+
+@media (min-width: 992px){
+  .container {
+      width: 850px;
+  }
+}
+
+@media (min-width: 1200px){
+  .container {
+      width: 970px;
+  }
+}
+
+
+
+/* START styling for the orchester_dex page */
+/*
+ * Row with equal height across columns
+ * --------------------------------------------------
+ */
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* 
+ * Styling for the student orchestra cards
+ */
+.card-line {
+  border: 11px solid #ffe25c;
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 0 15px 0;
+  height: 100%;
+  width: 100%;
+}
+
+.card{
+  padding: 15px;
+}
+
+.col-md-6{
+  padding: 10px;
+}
+
+.card-text{
+  font-size: small;
+  color: #292929;
+}
+
+.card-title{
+  font-weight: bold;
+  margin-top: 0;
+  display: inline-block;
+}
+
+.card-title-container{
+  left: 0;
+  display: inline;
+  float: left;
+}
+
+.red-number-container{
+  float: right;
+  text-align: right;
+}
+
+@media (min-width: 300px){
+  .card-title-container{
+  width: 69%;
+  }
+
+  .red-number-container{
+    width: 31%;
+  }
+}
+
+@media (min-width: 450px){
+  .card-title-container{
+  width: 75%;
+  }
+
+  .red-number-container{
+    width: 25%;
+  }
+}
+
+.red-number{
+  color: #ff0b00;
+  display: inline;
+}
+
+.card-img-top{
+  border: 5px solid transparent;
+  -webkit-border-image: -webkit-linear-gradient(top left, #cda900 0%, #ffec95 20%, #ffd200 52%, #e0b900 65%, #fff3bc 87%, #f2c700 100%);
+  -moz-border-image: -moz-linear-gradient(top left, #cda900 0%, #ffec95 20%, #ffd200 52%, #e0b900 65%, #fff3bc 87%, #f2c700 100%);
+  -o-border-image: -o-linear-gradient(top left, #cda900 0%, #ffec95 20%, #ffd200 52%, #e0b900 65%, #fff3bc 87%, #f2c700 100%);
+  border-image: linear-gradient(to bottom right, #cda900 0%, #ffec95 20%, #ffd200 52%, #e0b900 65%, #fff3bc 87%, #f2c700 100%);
+  border-image-slice: 1;
+  box-shadow: 5px 5px  5px #888888;
+  width: 100%;
+}
+
+.card-icon{
+  width: 30px;
+  display: inline;
+  right: 0;
+}
+
+.card-banner{
+  text-align: center;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: linear-gradient(to right, #d1ac00 0%, #d19c00 1%, #ffe981 50%, #d19c00 99%, #d1ac00 100%);
+  margin-top: 5px;
+}
+
+.black-divider{
+  border-color: black;
+  margin-top: 0;
+}
+/* END styling for the studentorchester_dex page */

@@ -1,0 +1,152 @@
+{
+    "Berseblæsten": {
+        "name": "Berseblæsten",
+        "short_desc": "Urnorsk",
+        "description": "Hardbarka bergsmenn som alltid vinner nasjet. Sanger blir sunget titt og ofte og er som regel hundre år gamle.",
+        "uniform": "Svart ulluniform med tinnknapper og tilhørende svart hatt. Ullstrømpene er hjemmestrikket og skinnet bæres foran eller bak.",
+        "location": "Gløshaugen, Trondheim",
+        "toast": "Berseblæsten, drikk!",
+        "type": "Stein og olje",
+        "founded": 1953
+    },
+    "Studentorchesteret Biørneblæs": {
+        "name": "Student&shy;orchesteret Biørneblæs",
+        "short_desc": "The one and only",
+        "description": "Tanta til Beate, Tanta til Beate, Tanta til Beate. På mirakuløst vis kommer de på sisteplass i hver phanemiil. Favorittsangen er Tanta Til Beate.",
+        "uniform": "Grønn bukse, gul skjorte, sort jakke, sort hatt og grønn sløyfe",
+        "location": "Blindern, Oslo",
+        "toast": "Biørneblæs skåler generelt alt for lite!",
+        "type": "Realist",
+        "founded": 1971
+    },
+    "Corpsus Juris": {
+        "name": "Corpsus Juris",
+        "short_desc": "Mellom linjene",
+        "description": "Maskot: Corpsusgutten?",
+        "uniform": "Svart kappe og hvit parykk",
+        "location": "Det juridiske fakultet, Oslo",
+        "toast": "Ukjent. (Forslag: Skål in dubio pro reo (Skål til det motsatte er bevist)!)",
+        "type": "Jus",
+        "founded": 1963
+    },
+    "Studentorchesteret Dei Taktlause": {
+        "name": "Student&shy;orchesteret Dei Taktlause",
+        "short_desc": "Utforskande",
+        "description": "Raringane ifrå Trøndelag som er overalt, til og med bak deg nå! Dei Taktlause spelar høglydt i alle moglege taktartar. Favorittsongen er Time Warp.",
+        "uniform": "Halvferdig klovnedrakt? Legenda seier at nokre videregående elevar fikk i oppdrag å sy uniforma, og dei blei perfekt! Rar hatt er ein del av uniforma.",
+        "location": "Gløshaugen, Trondheim",
+        "toast": "Dei Taktlause skåler generelt, sjø!",
+        "type": "Elektrisk",
+        "founded": 1990
+    },
+    "Dragern": {
+        "name": "Dragern",
+        "short_desc": "HMS først!",
+        "description": "Tiltrekkes av anleggsmaskiner og veiskilt. Muligens mechanophile og har øl i blodet. Favorittsangen er Byggmester Bob.",
+        "uniform": "Oransje refleksvest og bukse i Statens Vegvesen-stil. Og selvfølgelig anleggshjelm!",
+        "location": "Gløshaugen, Trondheim",
+        "toast": "Kan det skåles? Klart det kan!",
+        "type": "Byggmester",
+        "founded": 1998
+    },
+    "Force Marsjør Juzz-Band & Fotnotene": {
+        "name": "Force Marsjør Juzz-Band & Fotnotene",
+        "short_desc": "Større krefter",
+        "description": "Livlige musikanter med skarre-r som elsker Hansa.",
+        "uniform": "Dommerkapper, hvit parykk, skjorte og sløyfe i valgfri farge",
+        "location": "Det juridiske fakultet, Bergen",
+        "toast": "<sub>Skå</sub>åå<sup>ål</sup>",
+        "type": "Jus",
+        "founded": 1979
+    },
+    "Medicinsk Blæse- et Spadserensemble": {
+        "name": "Medicinsk Blæse- et Spadser&shy;ensemble",
+        "short_desc": "Lenge leve, lenge blæse!",
+        "description": "Medicinere med phete laater. So Happy!",
+        "uniform": "Hvit skjorte og sløyfe, svart bukse og jakke, og bowlerhatt som holder på vettet.",
+        "location": "Universitet i Bergen",
+        "toast": "Ukjent",
+        "type": "Doktor",
+        "founded": 1963
+    },
+    "Medicinsk Selskabs Orchester": {
+        "name": "Medicinsk Selskabs Orchester",
+        "short_desc": "Undercover pirates &#9760",
+        "description": "Practphulde exemphlarer af arten Musicant. De medicinsk skolerede Horders høiculturelle Midtpunkt.",
+        "uniform": "Grønne strømper, (hansker) og sløyfe, hatt med grønt bånd (og grønt skjerf), svarte jakker, bukser og skjorter.",
+        "location": "St. Olavs, Nidaros",
+        "toast": "Ukjent",
+        "type": "Doktor",
+        "founded": 1993
+    },
+    "Medicinsk Paradeorchæster": {
+        "name": "Medicinsk Paradeorchæster",
+        "short_desc": "Ærede Phæns!",
+        "description": "Eders Protector Minor Orchæstris er H.M. Kongen Harald V. Et noglet ambivalent forhold til ridende Politi til Hæst et gaaende Gardechef til fots.",
+        "uniform": "Sort Sjakett/Livkjole/Bonjourfrakk med tilhørende Bukser et Vest samt hvit Skjorte, Studenterlue et Sløyfe i Valgphri Pharge",
+        "location": "Oslo",
+        "toast": "Ingen. Vi skaaler dog naar vi vil, hvor vi vil et saa lenge vi vil.",
+        "type": "Doktor",
+        "founded": 1961
+    },
+    "Musikselskabet Larmonien": {
+        "name": "Musik&shy;selskabet Larmonien",
+        "short_desc": "Inimicissima musicae",
+        "description": "Røde musikanter med lange og klassiske tradisjoner. Maskot: Hans Høyhet Nygaardsgubben, et 300 år gammelt troll.",
+        "uniform": "Svarte sko, bukser og studenterlue. Hvite skjorter og en rød sjakettjakke.",
+        "location": "Universitet i Bergen",
+        "toast": "Ukjent",
+        "type": "Mytisk",
+        "founded": 1966
+    },
+    "Ompagniet": {
+        "name": "Ompagniet",
+        "short_desc": "Værdens nordligste studentblaaseorchæster",
+        "description": "Ompagneurer trosser all slags vær for å lage lyd for folk og reinsdyr. Bading gjøres helst i fontener.",
+        "uniform": "Svart bukse, svart snippfrakk, hvit skjorte og maksimalt stygt slips",
+        "location": "Universitet i Tromsø",
+        "toast": "Se i taket!",
+        "type": "Isbjørn",
+        "founded": 1984
+    },
+    "Spadser et Blæse-Ensembelet": {
+        "name": "Spadser et Blæse-Ensembelet",
+        "short_desc": "For vi er de beste, jum jum",
+        "description": "Glade solbrune sørlendinger med hengivenhet til Kongen. Favorittsangen er Langemanns sang.",
+        "uniform": "Svart jakke, bukser og bowlerhatt. Hvit skjorte og sløyfe, rødt magebånd.",
+        "location": "Kristiandsand",
+        "toast": "Armen i vinkel, en-to-tre-fir pelikan, weoweoweo, skål!",
+        "type": "Sjørøver",
+        "founded": 1974
+    },
+    "Strindens Promenade Orchester": {
+        "name": "Strindens Promenade Orchester",
+        "short_desc": "Tigergutt <3",
+        "description": "Dixiejazzsambaswing-elskende studenter, med show, og uten noter. Favorittsangen er The Stars and Stripes Forever",
+        "uniform": "Blå og hvit stripete genser, svart vest eller jakke, og grå bukse",
+        "location": "Samfundet, Trondheim",
+        "toast": "Ukjent",
+        "type": "Dixie biscuit",
+        "founded": 1963
+    },
+    "TapHel & Toddy": {
+        "name": "TapHel & Toddy",
+        "short_desc": "Stoff er digg å holde på med!",
+        "description": "Gale kjemikere av beste sorten. Har slemmetoddy på termos og festLF skriblet på labfrakken. Favorittsangen er Just a Gigolo.",
+        "uniform": "Labfrakk og burgunderrød berret",
+        "location": "Gløshaugen, Trondheim",
+        "toast": "Ukjent",
+        "type": "Kjemisk",
+        "founded": 1967
+    },
+    "Åsblæsten": {
+        "name": "Åsblæsten",
+        "short_desc": "Gråtass FTW!",
+        "description": "Den orginale Åsblæstern er sjølberga med åkre, kyr og mekanisk pløyeinnretning. Maskot: Hans Harald, den kongelige panda. Favorittsangen er Surfbrett",
+        "uniform": "Rød busserull med hvite striper, strømper og hatt.",
+        "location": "Ås",
+        "toast": "Generelt! Det skåles alt for lite!",
+        "type": "Jord",
+        "founded": 1974
+    }
+}
